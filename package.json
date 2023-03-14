@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "duckhunt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start-dev": "webpack -w & nodemon server",
     "seed": "node ./seed.js"
   },
-  "author": "",
+  "author": "duckhunters",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.10.6",
